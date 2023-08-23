@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'crmaihaccp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BF5DEBA0E62E49D1979405A52ECDA13E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3CF72E9DD1B6413A8B2092720172C363 }}
           package: .
