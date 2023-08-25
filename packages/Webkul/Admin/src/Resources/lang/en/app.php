@@ -830,7 +830,8 @@
             'locale'              => 'Locale',
             'en'                  => 'English',
             'tr'                  => 'Türkçe',
-            'ar'                  => 'Arabic',          
+            'ar'                  => 'Arabic',
+            'pt'                  => 'Portugues',
             'add-as'              => 'Add as new',
             'no-records-found'    => 'No Records Found',
             'start-typing'        => 'Start typing to search records',
@@ -845,8 +846,8 @@
             'internal-server-error' => '500 Internal Server Error',
             'something-went-wrong'  => 'Something went wrong, please try again later.',
             'delete-confirm'        => 'Do you really want to perform this action?',
-            'system_attribute'      => 'System', 
-            'custom_attribute'      => 'Custom', 
+            'system_attribute'      => 'System',
+            'custom_attribute'      => 'Custom',
         ],
 
         'user' => [
